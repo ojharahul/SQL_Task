@@ -1,0 +1,83 @@
+2022-11-29 20:52:46,658 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 20:53:25,768 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 20:53:55,196 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 20:53:55,198 -- ERROR -- SqliteOperation -- local variable 'tabl_query' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\sqliteoperation.py", line 31, in Create_table
+    tabl_query += k + ' '+tabl_struct[k]+','
+UnboundLocalError: local variable 'tabl_query' referenced before assignment
+2022-11-29 20:54:05,738 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 20:54:05,750 -- ERROR -- SqliteOperation -- local variable 'tabl_query' referenced before assignment
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\sqliteoperation.py", line 31, in Create_table
+    tabl_query += k + ' '+tabl_struct[k]+','
+UnboundLocalError: local variable 'tabl_query' referenced before assignment
+2022-11-29 21:01:21,779 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 21:01:21,780 -- ERROR -- SqliteOperation -- near ",": syntax error
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\sqliteoperation.py", line 35, in Create_table
+    self.cursor.execute(tabl_query)
+sqlite3.OperationalError: near ",": syntax error
+2022-11-29 21:02:51,546 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 21:02:51,547 -- ERROR -- SqliteOperation -- near ",": syntax error
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\sqliteoperation.py", line 36, in Create_table
+    self.cursor.execute(tabl_query)
+sqlite3.OperationalError: near ",": syntax error
+2022-11-29 21:04:07,169 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 21:04:07,191 -- INFO -- SqliteOperation -- Executed Query: create table beg_of_words (file1_enron text,file2_kos text,file3_nips text,file4_nytimes text,file5_pubmed tex)
+2022-11-29 21:04:07,191 -- INFO -- SqliteOperation -- Table: beg_of_words created successfully with format: {'file1_enron': 'text', 'file2_kos': 'text', 'file3_nips': 'text', 'file4_nytimes': 'text', 'file5_pubmed': 'text'}
+2022-11-29 21:09:14,884 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 21:09:14,885 -- ERROR -- SqliteOperation -- table beg_of_words already exists
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\sqliteoperation.py", line 36, in Create_table
+    self.cursor.execute(tabl_query)
+sqlite3.OperationalError: table beg_of_words already exists
+2022-11-29 21:09:14,886 -- INFO -- SqliteOperation -- Executed Query: select * from beg_of_words
+2022-11-29 21:09:14,886 -- WARNING -- SqliteOperation -- Returning data form table: beg_of_words
+2022-11-29 21:09:32,789 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 21:09:32,790 -- ERROR -- SqliteOperation -- table beg_of_words already exists
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\sqliteoperation.py", line 36, in Create_table
+    self.cursor.execute(tabl_query)
+sqlite3.OperationalError: table beg_of_words already exists
+2022-11-29 21:09:32,791 -- INFO -- SqliteOperation -- Executed Query: select * from beg_of_words
+2022-11-29 21:09:32,791 -- WARNING -- SqliteOperation -- Returning data form table: beg_of_words
+2022-11-29 21:09:32,791 -- INFO -- SqliteOperation -- Executed Query: select count(*) from beg_of_words
+2022-11-29 21:09:32,791 -- INFO -- SqliteOperation -- Number of records present in table: beg_of_words is : [(0,)]
+2022-11-29 21:09:43,230 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 21:09:43,230 -- ERROR -- SqliteOperation -- table beg_of_words already exists
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\sqliteoperation.py", line 36, in Create_table
+    self.cursor.execute(tabl_query)
+sqlite3.OperationalError: table beg_of_words already exists
+2022-11-29 21:09:43,231 -- INFO -- SqliteOperation -- Executed Query: select * from beg_of_words
+2022-11-29 21:09:43,231 -- WARNING -- SqliteOperation -- Returning data form table: beg_of_words
+2022-11-29 21:09:43,231 -- INFO -- SqliteOperation -- Executed Query: select count(*) from beg_of_words
+2022-11-29 21:09:43,231 -- INFO -- SqliteOperation -- Number of records present in table: beg_of_words is : [(0,)]
+2022-11-29 21:09:57,178 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 21:09:57,179 -- ERROR -- SqliteOperation -- table beg_of_words already exists
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\sqliteoperation.py", line 36, in Create_table
+    self.cursor.execute(tabl_query)
+sqlite3.OperationalError: table beg_of_words already exists
+2022-11-29 21:09:57,179 -- INFO -- SqliteOperation -- Executed Query: select * from beg_of_words
+2022-11-29 21:09:57,179 -- WARNING -- SqliteOperation -- Returning data form table: beg_of_words
+2022-11-29 21:09:57,180 -- INFO -- SqliteOperation -- Executed Query: select count(*) from beg_of_words
+2022-11-29 21:09:57,180 -- INFO -- SqliteOperation -- Number of records present in table: beg_of_words is : [(0,)]
+2022-11-29 21:09:57,346 -- INFO -- SqliteOperation -- Executed sample Query: insert into beg_of_words values ('disabled', 'zones', 'mina', 'clothes', 'abstinence')
+2022-11-29 21:09:57,347 -- INFO -- SqliteOperation -- Bulk data inserted to table: beg_of_words
+2022-11-29 21:10:59,371 -- INFO -- SqliteOperation -- Initialized all the variables: task_4.db
+2022-11-29 21:10:59,372 -- ERROR -- SqliteOperation -- table beg_of_words already exists
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\sqliteoperation.py", line 36, in Create_table
+    self.cursor.execute(tabl_query)
+sqlite3.OperationalError: table beg_of_words already exists
+2022-11-29 21:10:59,372 -- INFO -- SqliteOperation -- Executed Query: select * from beg_of_words
+2022-11-29 21:10:59,395 -- WARNING -- SqliteOperation -- Returning data form table: beg_of_words
+2022-11-29 21:10:59,421 -- INFO -- SqliteOperation -- Executed Query: select count(*) from beg_of_words
+2022-11-29 21:10:59,421 -- INFO -- SqliteOperation -- Number of records present in table: beg_of_words is : [(6906,)]
+2022-11-29 21:10:59,568 -- INFO -- SqliteOperation -- Executed sample Query: insert into beg_of_words values ('disabled', 'zones', 'mina', 'clothes', 'abstinence')
+2022-11-29 21:10:59,568 -- INFO -- SqliteOperation -- Bulk data inserted to table: beg_of_words
+2022-11-29 21:10:59,568 -- INFO -- SqliteOperation -- Executed Query: select count(*) from beg_of_words
+2022-11-29 21:10:59,569 -- INFO -- SqliteOperation -- Number of records present in table: beg_of_words is : [(13812,)]

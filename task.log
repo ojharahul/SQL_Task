@@ -1,0 +1,242 @@
+2022-11-29 19:17:23,296 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:17:38,614 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:18:54,683 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:19:12,176 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:19:33,590 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:20:04,985 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:20:04,988 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:20:04,988 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:20:04,990 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:20:04,992 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:20:04,993 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:20:05,007 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:20:33,121 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:20:33,124 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:20:33,124 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:20:33,126 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:20:33,127 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:20:33,134 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:20:33,144 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:21:16,691 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:21:16,694 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:21:16,694 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:21:16,696 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:21:16,697 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:21:16,698 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:21:16,709 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:21:16,727 -- INFO -- TaskSolution -- solving question 1
+2022-11-29 19:21:16,741 -- INFO -- TaskSolution -- returing list of tuples of count of each word
+2022-11-29 19:21:35,690 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:21:35,693 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:21:35,693 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:21:35,697 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:21:35,697 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:21:35,698 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:21:35,709 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:21:35,729 -- INFO -- TaskSolution -- solving question 1
+2022-11-29 19:21:35,743 -- INFO -- TaskSolution -- returing list of tuples of count of each word
+2022-11-29 19:21:35,769 -- INFO -- TaskSolution -- solving question 1
+2022-11-29 19:21:35,769 -- ERROR -- TaskSolution -- unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\task_solution.py", line 58, in task_q1
+    if i in res:
+TypeError: unhashable type: 'list'
+2022-11-29 19:23:44,342 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:23:44,345 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:23:44,345 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:23:44,347 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:23:44,348 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:23:44,350 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:23:44,362 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:23:44,383 -- INFO -- TaskSolution -- solving question 1
+2022-11-29 19:23:44,399 -- INFO -- TaskSolution -- returing list of tuples of count of each word
+2022-11-29 19:23:44,424 -- INFO -- TaskSolution -- solving question 1
+2022-11-29 19:23:44,424 -- ERROR -- TaskSolution -- unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\task_solution.py", line 58, in task_q1
+    if i in res:
+TypeError: unhashable type: 'list'
+2022-11-29 19:24:03,092 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:24:03,095 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:24:03,095 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:24:03,097 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:24:03,098 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:24:03,099 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:24:03,109 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:24:03,126 -- INFO -- TaskSolution -- solving question 1
+2022-11-29 19:24:03,142 -- INFO -- TaskSolution -- returing list of tuples of count of each word
+2022-11-29 19:24:03,170 -- INFO -- TaskSolution -- solving question 1
+2022-11-29 19:24:03,170 -- ERROR -- TaskSolution -- unhashable type: 'list'
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\task_solution.py", line 58, in task_q1
+    if i in res:
+TypeError: unhashable type: 'list'
+2022-11-29 19:25:46,270 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:25:46,275 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:25:46,275 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:25:46,279 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:25:46,281 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:25:46,283 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:25:46,297 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:25:46,320 -- INFO -- TaskSolution -- solving question 1
+2022-11-29 19:25:46,334 -- INFO -- TaskSolution -- returing list of tuples of count of each word
+2022-11-29 19:25:46,362 -- INFO -- TaskSolution -- solving question 1
+2022-11-29 19:25:46,448 -- INFO -- TaskSolution -- returing list of tuples of count of each word
+2022-11-29 19:25:59,803 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:25:59,806 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:25:59,806 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:25:59,809 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:25:59,810 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:25:59,811 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:25:59,822 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:26:50,486 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:26:50,489 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:26:50,489 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:26:50,492 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:26:50,493 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:26:50,495 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:26:50,507 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:26:50,531 -- INFO -- TaskSolution -- solving question 2
+2022-11-29 19:26:50,536 -- INFO -- TaskSolution -- Returing list of tuples of count of each first character 
+2022-11-29 19:27:08,290 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:27:08,293 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:27:08,293 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:27:08,296 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:27:08,298 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:27:08,299 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:27:08,312 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:27:08,336 -- INFO -- TaskSolution -- solving question 2
+2022-11-29 19:27:08,341 -- INFO -- TaskSolution -- Returing list of tuples of count of each first character 
+2022-11-29 19:33:31,247 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:33:31,250 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:33:31,251 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:33:31,253 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:33:31,254 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:33:31,255 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:33:31,267 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:33:31,290 -- INFO -- TaskSolution -- solving question 2
+2022-11-29 19:33:31,337 -- INFO -- TaskSolution -- Returing list of tuples of count of each first character 
+2022-11-29 19:34:40,254 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:34:40,257 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:34:40,257 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:34:40,260 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:34:40,261 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:34:40,262 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:34:40,273 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:34:40,297 -- INFO -- TaskSolution -- Solving question 3
+2022-11-29 19:34:40,310 -- INFO -- TaskSolution -- Returning only list of words out of all the data
+2022-11-29 19:35:33,129 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:35:33,132 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 19:35:33,132 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 19:35:33,135 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 19:35:33,136 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 19:35:33,138 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 19:35:33,151 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 19:35:33,175 -- INFO -- TaskSolution -- Solving question 3
+2022-11-29 19:35:33,348 -- INFO -- TaskSolution -- Returning only list of words out of all the data
+2022-11-29 20:52:46,593 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 20:52:46,600 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 20:52:46,600 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 20:52:46,603 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 20:52:46,604 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 20:52:46,607 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 20:52:46,622 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 20:53:25,722 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 20:53:25,726 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 20:53:25,726 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 20:53:25,729 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 20:53:25,730 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 20:53:25,732 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 20:53:25,744 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 20:53:55,150 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 20:53:55,154 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 20:53:55,154 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 20:53:55,157 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 20:53:55,159 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 20:53:55,160 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 20:53:55,172 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 20:54:05,687 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 20:54:05,690 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 20:54:05,690 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 20:54:05,694 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 20:54:05,696 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 20:54:05,698 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 20:54:05,711 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 21:01:21,738 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:01:21,740 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 21:01:21,740 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:01:21,743 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 21:01:21,744 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 21:01:21,745 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 21:01:21,757 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 21:02:51,506 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:02:51,509 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 21:02:51,509 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:02:51,511 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 21:02:51,513 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 21:02:51,514 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 21:02:51,524 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 21:04:07,124 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:04:07,127 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 21:04:07,127 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:04:07,130 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 21:04:07,132 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 21:04:07,132 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 21:04:07,145 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 21:09:14,838 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:09:14,841 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 21:09:14,841 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:09:14,845 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 21:09:14,845 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 21:09:14,847 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 21:09:14,859 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 21:09:32,735 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:09:32,739 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 21:09:32,739 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:09:32,742 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 21:09:32,744 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 21:09:32,745 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 21:09:32,761 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 21:09:43,180 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:09:43,183 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 21:09:43,183 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:09:43,187 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 21:09:43,188 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 21:09:43,190 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 21:09:43,203 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 21:09:57,128 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:09:57,131 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 21:09:57,131 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:09:57,135 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 21:09:57,136 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 21:09:57,138 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 21:09:57,152 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 21:09:57,180 -- INFO -- TaskSolution -- Solving question 4 
+2022-11-29 21:09:57,180 -- INFO -- TaskSolution -- Reading data from all the files
+2022-11-29 21:09:57,180 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:09:57,183 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 21:09:57,183 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 21:09:57,185 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 21:09:57,198 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 21:09:57,347 -- INFO -- TaskSolution -- Bulk data inserted to table: beg_of_words
+2022-11-29 21:09:57,347 -- ERROR -- TaskSolution -- 'SqliteOperation' object has no attribute 'select'
+Traceback (most recent call last):
+  File "C:\Users\rahul.ojha\SqliteTask\task_solution.py", line 154, in task_q4
+    c = conn.select.count_table(table)
+AttributeError: 'SqliteOperation' object has no attribute 'select'
+2022-11-29 21:10:59,322 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:10:59,326 -- INFO -- TaskSolution -- Reading data form all the files
+2022-11-29 21:10:59,326 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:10:59,330 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 21:10:59,331 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 21:10:59,333 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 21:10:59,346 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 21:10:59,421 -- INFO -- TaskSolution -- Solving question 4 
+2022-11-29 21:10:59,421 -- INFO -- TaskSolution -- Reading data from all the files
+2022-11-29 21:10:59,421 -- INFO -- TaskSolution -- Reading data form file: vocab.enron.txt
+2022-11-29 21:10:59,424 -- INFO -- TaskSolution -- Reading data form file: vocab.kos.txt
+2022-11-29 21:10:59,425 -- INFO -- TaskSolution -- Reading data form file: vocab.nips.txt
+2022-11-29 21:10:59,426 -- INFO -- TaskSolution -- Reading data form file: vocab.nytimes.txt
+2022-11-29 21:10:59,436 -- INFO -- TaskSolution -- Reading data form file: vocab.pubmed.txt
+2022-11-29 21:10:59,568 -- INFO -- TaskSolution -- Bulk data inserted to table: beg_of_words
+2022-11-29 21:10:59,569 -- INFO -- TaskSolution -- Returning number od rows inserted to table: beg_of_words is: [(13812,)] 
